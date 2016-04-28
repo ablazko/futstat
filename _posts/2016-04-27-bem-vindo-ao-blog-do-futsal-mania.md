@@ -9,7 +9,7 @@ highlight: [ futsal ; lnf ]
 
 Aqui você encontrará discussões, curiosidades e análises sobre o futsal no Brasil, especialmente sobre as partidas da Liga Nacional de Futsal (LNF).
 
-A intenção é utilizar minha *expertise* em estatística para explorar os **números do jogo**, descobrir coisas novas e interessantes. Conhecer mais sobre as equipes e a própria história da LNF.
+A intenção é utilizar minha *expertise* em estatística para explorar os **números do jogo**, descobrir coisas novas, conhecer mais sobre as equipes e a própria história da LNF.
 
 Por fim, dar a minha pequena contribuição para ajudar a divulgar essa disciplina fantástica que é a **Estatística**, e também este esporte maravilhoso que é o **Futsal!**
 

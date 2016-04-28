@@ -1,9 +1,9 @@
 
-http://ablazko.github.io/404.html
-http://ablazko.github.io/assets/css/all.css
-http://ablazko.github.io/atom.xml
-http://ablazko.github.io/
-http://ablazko.github.io/site.json
-http://ablazko.github.io/sitemap.txt
+http://ablazko.github.io/futsalmaniablog/404.html
+http://ablazko.github.io/futsalmaniablog/assets/css/all.css
+http://ablazko.github.io/futsalmaniablog/atom.xml
+http://ablazko.github.io/futsalmaniablog/
+http://ablazko.github.io/futsalmaniablog/site.json
+http://ablazko.github.io/futsalmaniablog/sitemap.txt
 
-http://ablazko.github.io/blog/2016/03/31/welcome-to-my-blog.html
+http://ablazko.github.io/futsalmaniablog/blog/2016/04/27/bem-vindo-ao-blog-do-futsal-mania.html
