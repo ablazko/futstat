@@ -1,5 +1,5 @@
 # General Jekyll Config
-url: http://ablazko.github.io/futsalmaniablog
+url: /futsalmaniablog
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 safe: true
 lsi: false
