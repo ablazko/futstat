@@ -13,7 +13,7 @@ Pensando nisso, decidi vazer uma breve análise dos placares dos jogos da Liga. 
 
 O gráfico a seguir nos dá uma boa visão de como foi esta história até este momento. Veja como ficou.
 
-<span style="text-align: center;"><img src="/posts-img/2016-04-28-frequencia-placares-lnf-img1.png" width="600" heigth="480"></span>
+<span style="text-align: center;"><img src="/futsalmaniablog/posts-img/2016-04-28-frequencia-placares-lnf-img1.png" width="600" heigth="480"></span>
 
 Neste "mapa de calor" as cores frias (<font color="#A5D8E6">azul claro</font>) indicam uma baixa frequência de placar, e as cores mais quentes (<font color="red">vermelho escuro</font>) indicam alta frequência de placar.
 
