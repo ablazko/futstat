@@ -79,7 +79,7 @@
 	p img { margin: 0; }
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 
-	p code { background-color: rgba(206,206,206,0.2); color:#001EC1; border-radius: 4px; padding-left: 4px; padding-right: 4px; }
+	p code { background-color: rgba(206,206,206,0.15); color:#0028FF; border-radius: 4px; padding-left: 4px; padding-right: 4px; }
 
 	em { font-style: italic; }
 	strong { font-weight: bold; color: #333; }
