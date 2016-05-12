@@ -14,7 +14,7 @@ Uma das coisas que sempre me chamou a atenção na Liga Nacional de Futsal foi a
 Vejamos, para começar, como foram as campanhas das 06 equipes campeãs das Ligas de 2010 a 2015.
 
 <div align="center">
-<img src="/futsalmaniablog/posts-img/2016-05-12-plot1.png" width="630">
+<img src="/futsalmaniablog/posts-img/2016-05-12-plot1.png" width="800">
 </div>
 
 <br>
@@ -27,7 +27,7 @@ Já a equipe de `Sorocaba (2014)` conquistou seu título com uma **campanha de 5
 Se reorganizarmos estes dados, descartando a história partida a partida e mantendo apenas as estatísticas finais nas competições podemos fazer uma comparação mais simplificada entre as equipes. Observe o gráfico abaixo.
 
 <div align="center">
-<img src="/futsalmaniablog/posts-img/2016-05-12-plot2.png" width="630">
+<img src="/futsalmaniablog/posts-img/2016-05-12-plot2.png" width="700">
 </div>
 
 <br>
@@ -56,7 +56,7 @@ Ao observar os resultados acima, um ponto a ser ressaltado é que a pontuação 
 Observe, no gráfico a seguir, como foram as **campanhas reais** de cada equipe nas Ligas. São apresentados os resultados apenas dos três primeiros colocados, supondo uma classificação por pontos corridos.
 
 <div align="center">
-<img src="/futsalmaniablog/posts-img/2016-05-12-plot3.png" width="630">
+<img src="/futsalmaniablog/posts-img/2016-05-12-plot3.png" width="800">
 </div>
 
 <br>
@@ -67,7 +67,7 @@ Observe, por exemplo, que dentre as Ligas analisadas a equipe de `Joinville (201
 Em especial, um outro resultado também me chamou a atenção. Se você observar as estatísticas da Liga 2011 irá notar que as equipes de `Santos` e `Carlos Barbosa` apresentam exatamente os mesmos resultados. Então o convido a conhecer as suas respectivas campanhas na ocasião. Veja o gráfico a seguir:
 
 <div align="center">
-<img src="/futsalmaniablog/posts-img/2016-05-12-plot4.png" width="630">
+<img src="/futsalmaniablog/posts-img/2016-05-12-plot4.png" width="800">
 </div>
 
 <br>
