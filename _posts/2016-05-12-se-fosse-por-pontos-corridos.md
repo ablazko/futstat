@@ -9,7 +9,7 @@ highlight: [ futsal ]
 
 Uma das coisas que sempre me chamou a atenção na Liga Nacional de Futsal foi a alta competitividade entre as equipes. E em diversas ocasiões (Ligas) sempre acontece de uma equipe fantástica ficar pelo caminho. Sim, claro. Numa competição só pode haver um único campeão. Mas as vezes a desclassificação precoce de uma equipe excelente acaba deixando uma sensação de "injustiça". A história das Ligas nos mostra que 'equipes excelentes' não faltam nessas competições.
 
-> Mas a história dos esportes (e os números!) nos diz também que para vencer uma partida você as vezes só precisa de "sorte". Mas para vencer uma competição somente "sorte" não basta. Você precisa de "sorte" + competência!
+> A história dos esportes (e os números!) nos diz também que para vencer uma partida você as vezes só precisa de "sorte". Mas para vencer uma competição somente "sorte" não basta. Você precisa de "sorte" + competência!
 
 Vejamos, para começar, como foram as campanhas das 06 equipes campeãs das Ligas de 2010 a 2015.
 
