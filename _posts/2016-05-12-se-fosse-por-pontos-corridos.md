@@ -35,6 +35,7 @@ Veja como a equipe de `Sorocaba (2014)` se destaca das demais pela quantidade de
 
 
 <br>
+
 ## Mas e se a LNF fosse por pontos corridos?
 
 Ótimo, chegamos a uma parte bacana destas análises. E as conclusões que cheguei foram interessantíssimas! :)
