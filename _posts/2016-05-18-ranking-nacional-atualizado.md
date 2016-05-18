@@ -16,7 +16,7 @@ Equipes como a de `Carlos Barbosa` e `Sorocaba`, por exemplo, cujas campanhas na
 Veja o colocação atual das equipes neste momento:
 
 <div align="center">
-<img src="/futsalmaniablog/posts-img/2016-05-18-table1.png" width="550">
+<img src="/futsalmaniablog/posts-img/2016-05-18-table1.png" width="400">
 </div>
 
 <br>
