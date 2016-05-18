@@ -27,7 +27,7 @@ theme:
   tagline: "futsal mania blog"
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: 
+  google_analytics_key: UA-75826037-2
 
   # Toggle "Postings are my own" disclaimer in footer
   show_disclaimer: true
