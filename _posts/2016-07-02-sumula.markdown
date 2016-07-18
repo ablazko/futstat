@@ -1,0 +1,8 @@
+---
+layout: default
+img: sumula.jpg
+category: Services
+title: Súmula Online / Offline
+description: |
+---
+  O FUTSTAT oferece uma maneira simples, ágil e eficiente para você registrar todas as ocorrências de uma partida. E você pode acessá-las a qualquer momento e quantas vezes desejar também através de uma integração segura com nosso sistema.

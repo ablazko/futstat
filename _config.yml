@@ -1,42 +1,32 @@
-# General Jekyll Config
-url: /futsalmaniablog
-exclude: [LICENSE, CNAME, README.md, .gitignore]
-safe: true
-lsi: false
-#pygments: false
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.futstat.com.br
+title: FUTSTAT
+email: andre.blazko@gmail.com
+author: Futstat
+description: > # "Write an awesome description for your new site here. 
+  SUA MARCA DE ATLETA E DE SUA EQUIPE. Não deixe mais o tempo apagar suas conquistas! A sua história e a do seu time merecem ser reconhecidas, valorizadas e eternizadas!
+copyright: 'Copyright &copy; 2016 Futstat. All Rights Reserved.'
+credits: "Desenvolvido por <a href='http://www.sleekdata.com.br' target='_blank'>Sleek Data</a>"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
 markdown: kramdown
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+permalink: pretty
 
-# Theme customization
-theme:
-  # Color for top bar, links, etc
-  highlight_color: '#3498db'
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
 
-  # Profile links on the left sidebar, leave blank to ignore
-  social:
-    github: 
-    twitter: 
-    facebook: 
-    linkedin: 
-  author:
-    gplus: "aBlazko"
-  # Personal information
-  name: Futsal Mania
-  email: andre.blazko@gmail.com
-  tagline: "futsal mania blog"
-
-  # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-75826037-2
-
-  # Toggle "Postings are my own" disclaimer in footer
-  show_disclaimer: true
-
-  # MathJax support
-  mathjax: true
-
-  # Disqus site-id
-  disqus: ablazko
-
-  # highlight.js
-  highlightjs: googlecode
+social:
+  - title: #twitter
+    url: #https://twitter.com/SBootstrap
+  - title: #github
+    url: #https://github.com/IronSummitMedia/startbootstrap
+  - title: #linkedin
+    url: 

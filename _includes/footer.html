@@ -1,14 +1,40 @@
-<div class="disclaimer">
-  {% if site.theme.show_disclaimer %}
-  <p>
-    {% if site.theme.author.gplus %}
-    All articles are authored and published by <a href="mailto:{{ site.theme.email }}">Andre Blazko</a>.
-    {% endif %}
-    The contents on this site are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/deed.en_US">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-  </p>
-  {% endif %}
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <ul class="list-inline">
+                    <li>
+                        <a href="#home">Home</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="#o-que-oferecemos">O que oferecemos</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="#services">Serviços</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="#quem-somos">Quem somos</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="#contato">Contato</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="futsal-mania.html">Futsal Mania</a>
+                    </li>
 
-  <p>
-    © <a href="http://ablazko.github.io/futsalmania">{{ site.theme.name }}</a>, 2016 &mdash; hosted by <a href="http://pages.github.com/">GitHub Pages</a> and built with <a href="http://jekyllrb.com/">Jekyll</a> using <a href="http://jekyllthemes.org/themes/lagom/">Lagom theme</a>.
-  </p>
-</div>
+
+                </ul>
+                <p class="copyright text-muted small">{{ site.copyright }}</p>
+            </div>
+            <div class="col-md-4">
+                {{ site.credits }}
+            </div>
+        </div>
+    </div>
+</footer>
