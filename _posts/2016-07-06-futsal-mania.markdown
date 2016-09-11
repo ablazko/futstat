@@ -9,3 +9,5 @@ Aqui você encontra análises inéditas e detalhadas sobre as partidas da `Liga 
 resultados obtidos no campeonato mais disputado do mundo, a LNF!
 
 Entre e confira! [Futsal Mania](/futsalmania)
+
+Confira também as análises voltadas para o [Brasileirão Mania](/brasileiraomania)!
