@@ -43,6 +43,14 @@ h6 {
   margin-top:5%;
 }
 
+.img-clients {
+  vertical-align: middle;
+  width:40%;
+  max-width:40%;
+  height:auto;
+  margin-top:5%;
+}
+
 .img-services {
   vertical-align: middle;
   margin-bottom:0.25em;
